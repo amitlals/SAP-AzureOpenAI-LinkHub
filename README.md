@@ -97,4 +97,4 @@ https://github.com/Azure/FTALive-Sessions/tree/main/content/ai/azure-openai/en
 **Azure OpenAI Service: 10 ways generative AI is transforming businesses**
 https://azure.microsoft.com/en-us/blog/azure-openai-service-10-ways-generative-ai-is-transforming-businesses/
 
-Developed with ❤️ by [Amit Lal](https://www.linkedin.com/in/amitlal)
+Compiled/created with ❤️ by [Amit Lal](https://www.linkedin.com/in/amitlal)
